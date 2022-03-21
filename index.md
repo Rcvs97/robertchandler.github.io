@@ -10,7 +10,9 @@ While at Southern New Hampshire University, following the Computer Science progr
 2.	Comment/Label your code/work
 
 Saving your previous work and projects may have benefits down the line as it can help provide details in which you may need for a different project. Taking old work and reusing it/replicating it is often used today by developers. You never know when you might need to go back and check/use your work so always save it whether on a local device or GitHub. 
+
 Commenting and labeling code should be a fundamental everyone follows. This is because it is useful to you and other developers who may need to go over your work and fix a bug that may be caused b your work. It labels the section of where certain activities are fired and being able to locate where the source is located is very useful. 
+
 Reviewing and testing your code shouldn’t even be stated as a necessary topic because it is too obvious that it is necessary. Reviewing and constantly testing your work like I did throughout the program, should be done many times throughout a project. This is because if you wait until the end of the project or wait to long to test you are bound to have multiple issues in the code where you’re not sure where they may intertwine with later code. 
 
 
