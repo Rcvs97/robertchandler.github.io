@@ -1,5 +1,33 @@
 ## Welcome to Robert Chandlers E-Portfolio
 
+#Introduction 
+I started my path in the Computer Science program on January 9th, 2019. I started as an undecided major back in 2015 attending a community college at my old home in New York. Nassau Community College was not the place for me to grow and I knew it from the beginning of that journey. I failed out of this school and years later decided I decided I knew I wanted to pursue a Computer Science degree but was unsure of where to do so. After doing some research I found that SNHU had a great Computer Science Program and that is where I decided to begin my path. I am now planning to graduate in May of 2022!
+
+#Summary of My Portfolio
+I believe that the course I’ve taken throughout the computer science Program has given me the basic necessary fundamentals needed to help progress myself into a career work environment. In this E-Portfolio the courses I will be demonstrating my skillsets include:
+- CS310: Creating a Calculator using Java
+- CS330: Using OpenGL to create a chair
+- And a self-Project: A database using Visual Studios
+
+Of course, my skillset does not just include these assets as I have taken other classes, however I chose these course and project because they are more recent than others and I do feel as my memory on other subjects has faded unfortunately. 
+
+In the CS310 project for creating the calculator, I had basic functions of a calculator including PLUS, MINUS, MULTIPLY, DIVIDE, AND SQUARING. In my build I plan to incorporate more functionality to my calculator and adding more functionality for the user such as square root, power, and many more. CS330. I have completed already for creating a chair in OpenGL Visual Studios. Previously the chair had no background and poor lighting. In my adjustments I created better lighting and allowed the user to change the background using the number pads. 1-9 has a different color value and whatever the user would like to add would be changed in the viewport. And lastly my self-project includes a basic Database created in Visual Studios. I plan to add a User Interface which allows the user to search for Database subjects. The database is used to store Employee data. 
+
+I believe that each of these projects are diverse in their own way and each show how I have grown throughout the program. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/Rcvs97/robertchandler.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
