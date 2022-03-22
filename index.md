@@ -33,7 +33,7 @@ I believe that each of these projects are diverse in their own way and each show
 
 ### Portfolio Links
 
-- [Proffesional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
+- [Professional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
 ---
 
 
