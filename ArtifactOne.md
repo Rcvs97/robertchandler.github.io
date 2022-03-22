@@ -12,14 +12,16 @@ I learned how to adjust the lighting and add a background color based on the use
 
 ---
 # Link to Artifact One
-- [Enhancement One](https://github.com/Rcvs97/CS-330-OpenGL-Chair)
+- [Enhancement One Repository](https://github.com/Rcvs97/CS-330-OpenGL-Chair)
 ---
 
 
+---
 ### Portfolio Links
 
 - [Professional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
 - [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
+- [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/ArtifactOne)
 
 ---
 
