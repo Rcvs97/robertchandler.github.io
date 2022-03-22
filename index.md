@@ -29,7 +29,7 @@ In the CS310 project for creating the calculator, I had basic functions of a cal
 I believe that each of these projects are diverse in their own way and each show how I have grown throughout the program. 
 
 
-
+---
 
 ### Portfolio Links
 
