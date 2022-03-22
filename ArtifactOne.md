@@ -1,4 +1,4 @@
-##Articfact One Enhancement: Software Engineering & Design
+## Articfact One Enhancement: Software Engineering & Design
 
 
 The artifact from the beginning is the use of OpenGL to create chair. The artifact at first was just a chair the user is able to go through and move around using WASD keys. It was created in CS330 a couple of months ago. What I adjusted in the current form of the artifact from the previous one was adding a background color and changed the lighting of the viewport. The background color can now be adjusted by the use of the number pad adding a different color for whatever number the user chooses. 
@@ -11,7 +11,7 @@ I learned how to adjust the lighting and add a background color based on the use
 
 
 ---
-#Link to Artifact One
+# Link to Artifact One
 - [Enhancement One](https://github.com/Rcvs97/CS-330-OpenGL-Chair)
 ---
 
