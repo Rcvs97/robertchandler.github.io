@@ -13,8 +13,6 @@ I learned how to adjust the lighting and add a background color based on the use
 ---
 # Link to Artifact One
 - [Enhancement One Repository](https://github.com/Rcvs97/CS-330-OpenGL-Chair)
----
-
 
 ---
 ### Portfolio Links
