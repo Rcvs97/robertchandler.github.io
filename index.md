@@ -33,7 +33,7 @@ I believe that each of these projects are diverse in their own way and each show
 
 
 
-[Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
+- [Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
 
 
 
