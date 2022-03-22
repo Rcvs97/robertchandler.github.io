@@ -1,4 +1,4 @@
-## CS-499 ePortfolio - Robert Chandler
+
 
 # Introduction 
 I started my path in the Computer Science program on January 9th, 2019. I started as an undecided major back in 2015 attending a community college at my old home in New York. Nassau Community College was not the place for me to grow and I knew it from the beginning of that journey. I failed out of this school and years later decided I decided I knew I wanted to pursue a Computer Science degree but was unsure of where to do so. After doing some research I found that SNHU had a great Computer Science Program and that is where I decided to begin my path. I am now planning to graduate in May of 2022!
