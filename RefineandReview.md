@@ -12,7 +12,14 @@ My Third artifact that I will be working on is a self-made database using C# in 
 
 
 
+---
 
+### Portfolio Links
+
+- [Professional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
+- [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
+
+---
 
 
 
