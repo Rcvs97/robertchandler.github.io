@@ -33,7 +33,7 @@ I believe that each of these projects are diverse in their own way and each show
 
 
 
-[Test](https://github.com/Rcvs97/robertchandler.github.io/blob/master/Test.md)
+[Test](https://robertchandler.github.io/Test.md)
 
 
 
