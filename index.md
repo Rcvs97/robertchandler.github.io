@@ -34,4 +34,6 @@ I believe that each of these projects are diverse in their own way and each show
 ### Portfolio Links
 
 - [Professional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
+- [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
+
 ---
