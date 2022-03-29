@@ -8,7 +8,7 @@ I think redoing this project helped me relearn Java a bit. I don’t think I’m
 
 ---
 # Link to Artifact One
-- [Enhancement One Repository](https://github.com/Rcvs97/CS-330-OpenGL-Chair)
+- [Enhancement Two Repository](https://github.com/Rcvs97/calculator)
 
 ---
 ### Portfolio Links
