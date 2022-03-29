@@ -19,7 +19,7 @@ I learned how to adjust the lighting and add a background color based on the use
 
 - [Professional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
 - [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
-- [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/ArtifactOne)
+- [Artifact One](https://rcvs97.github.io/robertchandler.github.io/ArtifactOne)
 
 ---
 
