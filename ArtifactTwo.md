@@ -7,7 +7,7 @@ This project in my opinion covers the Algorithms and Data Structure subjects ver
 I think redoing this project helped me relearn Java a bit. I don’t think I’m the best at Java but I think doing this project really helped me experience more and rethink my strategies on approaching these kinds of projects and touchups. I very much enjoyed this project because math is one of my favorite subjects (though I’m not as good at it as I used to be) and so it had a special place in my heart to work on this project. I faced challenges getting the percent button to work but other then that the project ran smooth!
 
 ---
-# Link to Artifact One
+# Link to Artifact Two
 - [Enhancement Two Repository](https://github.com/Rcvs97/calculator)
 
 ---
