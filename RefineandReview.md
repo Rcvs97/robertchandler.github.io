@@ -19,7 +19,10 @@ My Third artifact that I will be working on is a self-made database using C# in 
 - [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
 - [Artifact One](https://rcvs97.github.io/robertchandler.github.io/ArtifactOne)
 - [Artifact Two](https://rcvs97.github.io/robertchandler.github.io/ArtifactTwo)
+- [Artifact Three](https://rcvs97.github.io/robertchandler.github.io/ArtifactThree)
+
 ---
+
 
 
 
