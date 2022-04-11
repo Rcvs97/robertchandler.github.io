@@ -14,13 +14,13 @@ My Third artifact that I will be working on is a self-made database using C# in 
 
 ---
 https://www.youtube.com/watch?v=6UpzXdXhLDg
-
+1
 **Code Review**
 <div align="center">
   <iframe 
         width="560" 
         height="315" 
-        src="https://www.youtube.com/watch?v=15b8BHebRy4" 
+        src="https://youtu.be/15b8BHebRy4" 
         frameborder="0" 
         allowfullscreen="">
   </iframe>
