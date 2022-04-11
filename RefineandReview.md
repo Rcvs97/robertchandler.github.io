@@ -13,19 +13,9 @@ My Third artifact that I will be working on is a self-made database using C# in 
 
 
 ---
-https://www.youtube.com/watch?v=6UpzXdXhLDg
 1
 **Code Review**
-<div align="center">
-  <iframe 
-        width="560" 
-        height="315" 
-        src="https://youtu.be/15b8BHebRy4" 
-        frameborder="0" 
-        allowfullscreen="">
-  </iframe>
-</div>
-
+[![Code Review Video](https://previews.123rf.com/images/khalide91/khalide911912/khalide91191200135/134742428-code-review-icon-on-white-linear-vector-image.jpg)](https://www.youtube.com/watch?v=6UpzXdXhLDg)
 ---
 
 
