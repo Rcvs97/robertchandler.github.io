@@ -18,4 +18,7 @@ I haven’t worked with databases in a while and losing my previous work/project
 - [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
 - [Artifact One](https://rcvs97.github.io/robertchandler.github.io/ArtifactOne)
 - [Artifact Two](https://rcvs97.github.io/robertchandler.github.io/ArtifactTwo)
+- [Artifact Three](https://rcvs97.github.io/robertchandler.github.io/ArtifactThree)
+
 ---
+
