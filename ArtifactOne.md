@@ -21,6 +21,8 @@ I learned how to adjust the lighting and add a background color based on the use
 - [Code Review & Refinement Plan](https://rcvs97.github.io/robertchandler.github.io/RefineandReview)
 - [Artifact One](https://rcvs97.github.io/robertchandler.github.io/ArtifactOne)
 - [Artifact Two](https://rcvs97.github.io/robertchandler.github.io/ArtifactTwo)
+- [Artifact Three](https://rcvs97.github.io/robertchandler.github.io/ArtifactThree)
+
 ---
 
 
