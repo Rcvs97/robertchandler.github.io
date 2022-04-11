@@ -13,6 +13,22 @@ My Third artifact that I will be working on is a self-made database using C# in 
 
 
 ---
+
+**Code Review**
+<div align="center">
+  <iframe 
+        width="560" 
+        height="315" 
+        src="https://www.youtube.com/watch?v=6UpzXdXhLDg" 
+        frameborder="0" 
+        allow="autoplay; encrypted-media" 
+        allowfullscreen="">
+  </iframe>
+</div>
+
+---
+
+
 ### Portfolio Links
 
 - [Professional Self Assessment](https://rcvs97.github.io/robertchandler.github.io/)
